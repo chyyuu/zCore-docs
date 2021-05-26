@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Dirty","Dirty wraps a value of type T with functions similiar to that of a Read/Write lock but simply sets a dirty flag on write(), reset on read()"]]});

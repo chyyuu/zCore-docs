@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RegionAllocator","An endpoint-based region allocator."]]});
